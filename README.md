@@ -1,7 +1,7 @@
 SPRING BOOT WITH AZURE SQL
 ---------------------------------------------------------------------------
 
-Spring Boot REST API that connects to an Azure SQL Server.
+Spring Boot REST API that connects to Azure SQL Server.
 
 ---------------------------------------------------------------------------
 
