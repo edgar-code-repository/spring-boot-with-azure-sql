@@ -33,5 +33,6 @@ public class SaleController {
         SaleResponseDTO responseDTO = new SaleResponseDTO(sale);
         return ResponseEntity.ok().body(responseDTO);
     }
+    
 
 }
